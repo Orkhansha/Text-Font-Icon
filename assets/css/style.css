@@ -1,0 +1,70 @@
+.header{
+    background-color: rgb(165, 71, 9);
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.all{
+    border: 3px solid black;
+    width: 600px;
+    height: 408px;
+}
+.general{
+    font-size: 36px; 
+    font-weight: bold;
+}
+.body{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(230, 161, 115);
+    width: 600px;
+    height: 35px;
+}
+.headbody{
+    background-color: rgb(230, 161, 115);
+    width: 600px;
+}
+.footer{
+    font-size: 18px;
+    justify-content: center;
+    background-color: rgb(230, 161, 115);
+    width: 590px;
+    height: 150px;
+    margin: 10px;
+}
+.footer .sent1,.sent2{
+    color: rgb(133, 8, 8);
+}
+.home a{
+    cursor: all-scroll;
+    text-decoration: none;
+    color: green;
+    border: 3px;
+    padding: 20px;
+    font-size: 16px;
+}
+.info a{
+    text-decoration: none;
+    color: green;
+    border: 3px;
+    padding: 20px;
+    font-size: 16px;
+}
+.contact a{
+    cursor: all-scroll;
+    text-decoration: none;
+    color: green;
+    border: 3px;
+    padding: 20px;
+    font-size: 16px;
+}
+.hubpages a{
+    text-decoration: none;
+    color: green;
+    border: 3px;
+    padding: 20px;
+    font-size: 16px;
+}
